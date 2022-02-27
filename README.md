@@ -1,9 +1,5 @@
-# Fabric Example Mod
+<p><strong><a href="https://www.curseforge.com/minecraft/mc-mods/seleni"><img src="https://raw.githubusercontent.com/CoutteauSam/Seleni/main/extra/seleni_badge.png" alt="Requires Seleni" width="180" height="60" /></a> </strong></p>
 
-## Setup
+### Even More Origins
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+INSERT DESCRIPTION HERE
