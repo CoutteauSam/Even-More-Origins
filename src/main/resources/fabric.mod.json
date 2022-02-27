@@ -1,36 +1,39 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "em_origins",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Even More Origins",
+  "description": "Even more origins for the origins mod",
   "authors": [
-    "Me!"
+    "scouttea"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/CoutteauSam/Even-More-Origins"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/em_origins/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "scouttea.em_origins.Entry"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "em_origins.mixins.json"
   ],
 
   "depends": {
     "fabricloader": ">=0.12.12",
     "fabric": "*",
     "minecraft": "1.18.x",
-    "java": ">=17"
+    "java": ">=17",
+    "origins": ">=1.0.0",
+    "pehkui": ">=2.6.0+1.14.4-1.18",
+    "seleni": ">=0.1.0"
   },
   "suggests": {
     "another-mod": "*"
