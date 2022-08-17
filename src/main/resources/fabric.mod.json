@@ -2,40 +2,29 @@
   "schemaVersion": 1,
   "id": "em_origins",
   "version": "${version}",
-
   "name": "Even More Origins",
   "description": "Even more origins for the origins mod",
   "authors": [
     "scouttea"
   ],
   "contact": {
-    "homepage": "",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/even-more-origins",
     "sources": "https://github.com/CoutteauSam/Even-More-Origins"
   },
-
   "license": "CC0-1.0",
   "icon": "assets/em_origins/icon.png",
-
   "environment": "*",
   "entrypoints": {
     "main": [
       "scouttea.em_origins.Entry"
     ]
   },
-  "mixins": [
-    "em_origins.mixins.json"
-  ],
-
   "depends": {
     "fabricloader": ">=0.12.12",
     "fabric": "*",
-    "minecraft": "1.18.x",
-    "java": ">=17",
-    "origins": ">=1.0.0",
-    "pehkui": ">=2.6.0+1.14.4-1.18",
-    "seleni": ">=0.1.0"
-  },
-  "suggests": {
-    "another-mod": "*"
+    "minecraft": "1.19.x",
+    "origins": ">=1.6.0",
+    "pehkui": ">=3.3.2",
+    "seleni": ">=0.2.0"
   }
 }
