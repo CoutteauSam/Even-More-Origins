@@ -13,16 +13,14 @@
   },
   "license": "CC0-1.0",
   "icon": "assets/em_origins/icon.png",
-  "environment": "*",
   "entrypoints": {
     "main": [
       "scouttea.em_origins.Entry"
     ]
   },
   "depends": {
-    "fabricloader": ">=0.12.12",
-    "fabric": "*",
     "minecraft": "1.19.x",
+    "fabric": "*",
     "origins": ">=1.6.0",
     "pehkui": ">=3.3.2",
     "seleni": ">=0.2.0"
