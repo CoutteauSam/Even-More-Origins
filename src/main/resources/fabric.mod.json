@@ -19,10 +19,10 @@
     ]
   },
   "depends": {
-    "minecraft": "1.19.x",
+    "minecraft": ">=1.19.3",
     "fabric": "*",
-    "origins": ">=1.6.0",
-    "pehkui": ">=3.3.2",
-    "seleni": ">=0.2.0"
+    "origins": "*",
+    "pehkui": "*",
+    "seleni": "*"
   }
 }
