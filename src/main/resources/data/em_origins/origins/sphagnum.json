@@ -1,7 +1,7 @@
 {
 	"powers":[
-		"em_origins:green",
 		"em_origins:explode",
+		"em_origins:green",
 		"em_origins:less_hunger",
 		"em_origins:sneaky",
 		"em_origins:weak_arms"

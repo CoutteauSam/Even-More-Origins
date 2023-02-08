@@ -1,10 +1,10 @@
 {
 	"powers":[
-		"em_origins:strong_arms",
+		"em_origins:big",
+		"em_origins:heavy",
 		"em_origins:no_air",
 		"em_origins:no_fall",
-		"em_origins:heavy",
-		"em_origins:big"
+		"em_origins:strong_arms"
 	],
 	"icon":"minecraft:iron_block",
 	"order":5,
