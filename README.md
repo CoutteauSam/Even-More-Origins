@@ -3,6 +3,7 @@
 ### Even More Origins
 
 Even More Origins adds `5` new origins for the origins mod based on existing mobs.
+
 Each origin has unique abilities which can be:
 - Positive (<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c3/Bucket_of_Axolotl_JE1_BE1.png" alt="axolotl" width="16" height="16" />)
 - Negative (<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/74/Lava_Bucket_JE2_BE2.png" alt="lava" width="16" height="16" />)
