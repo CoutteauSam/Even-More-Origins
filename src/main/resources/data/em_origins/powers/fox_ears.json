@@ -1,5 +1,5 @@
 {
-  "type": "seleni:skin_overlay",
-  "texture": "em_origins:textures/overlays/fox.png",
-  "hidden": true
+	"type":"seleni:skin_overlay",
+	"texture":"em_origins:textures/overlays/fox.png",
+	"hidden":true
 }
