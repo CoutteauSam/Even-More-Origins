@@ -2,11 +2,11 @@
 
 ### Even More Origins
 
-E.M. Origins add `5` new origins for the origins mod based on existing mobs.
+Even More Origins adds `5` new origins for the origins mod based on existing mobs.
 Each origin has unique abilities which can be:
-- positive (<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c3/Bucket_of_Axolotl_JE1_BE1.png" alt="axolotl" width="16" height="16" />)
-- negative (<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/74/Lava_Bucket_JE2_BE2.png" alt="lava" width="16" height="16" />)
-- mixed (<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Bucket_of_Pufferfish_JE2_BE2.png" alt="pufferfish" width="16" height="16" />)
+- Positive (<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c3/Bucket_of_Axolotl_JE1_BE1.png" alt="axolotl" width="16" height="16" />)
+- Negative (<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/74/Lava_Bucket_JE2_BE2.png" alt="lava" width="16" height="16" />)
+- Mixed (<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Bucket_of_Pufferfish_JE2_BE2.png" alt="pufferfish" width="16" height="16" />)
 
 <div>
 <img src="https://raw.githubusercontent.com/CoutteauSam/Even-More-Origins/1.18/extra/Equidae.png" alt="Equidae" width=350/>
