@@ -1,5 +1,5 @@
 {
-	"type":"origins:simple",
+	"type":"seleni:no_air",
 	"badges":[
 		{
 			"sprite":"minecraft:textures/item/axolotl_bucket.png",
