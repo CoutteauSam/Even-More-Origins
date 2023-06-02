@@ -3,13 +3,13 @@
 	"id":"even_more_origins",
 	"version":"${version}",
 	"name":"Even More Origins",
-	"description":"Even more origins for the origins mod",
+	"description":"Adds even more origins for the origins mod.",
 	"authors":[
 		"scouttea"
 	],
 	"contact":{
 		"homepage":"https://www.curseforge.com/minecraft/mc-mods/even-more-origins",
-		"sources":"https://github.com/CoutteauSam/Even-More-Origins"
+		"issues":"https://github.com/CoutteauSam/Even-More-Origins/issues"
 	},
 	"license":"CC0-1.0",
 	"icon":"assets/even_more_origins/icon.png",
