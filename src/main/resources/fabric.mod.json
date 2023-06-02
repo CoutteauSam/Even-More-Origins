@@ -1,9 +1,10 @@
 {
 	"schemaVersion":1,
 	"id":"even_more_origins",
-	"version":"${version}",
 	"name":"Even More Origins",
+	"version":"${version}",
 	"description":"Adds even more origins for the origins mod.",
+	"license":"CC0-1.0",
 	"authors":[
 		"scouttea"
 	],
@@ -11,7 +12,6 @@
 		"homepage":"https://www.curseforge.com/minecraft/mc-mods/even-more-origins",
 		"issues":"https://github.com/CoutteauSam/Even-More-Origins/issues"
 	},
-	"license":"CC0-1.0",
 	"icon":"assets/even_more_origins/icon.png",
 	"depends":{
 		"minecraft":"1.19.x",
