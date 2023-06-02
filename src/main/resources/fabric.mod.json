@@ -1,6 +1,6 @@
 {
 	"schemaVersion":1,
-	"id":"em_origins",
+	"id":"even_more_origins",
 	"version":"${version}",
 	"name":"Even More Origins",
 	"description":"Even more origins for the origins mod",
@@ -12,12 +12,7 @@
 		"sources":"https://github.com/CoutteauSam/Even-More-Origins"
 	},
 	"license":"CC0-1.0",
-	"icon":"assets/em_origins/icon.png",
-	"entrypoints":{
-		"main":[
-			"scouttea.em_origins.Entry"
-		]
-	},
+	"icon":"assets/even_more_origins/icon.png",
 	"depends":{
 		"minecraft":"1.19.x",
 		"fabric":"*",

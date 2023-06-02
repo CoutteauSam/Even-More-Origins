@@ -1,0 +1,12 @@
+{
+	"powers":[
+		"even_more_origins:big",
+		"even_more_origins:heavy",
+		"even_more_origins:no_air",
+		"even_more_origins:no_fall",
+		"even_more_origins:strong_arms"
+	],
+	"icon":"minecraft:iron_block",
+	"order":5,
+	"impact":2
+}

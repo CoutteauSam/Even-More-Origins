@@ -1,0 +1,13 @@
+{
+	"powers":[
+		"even_more_origins:berry_lover",
+		"even_more_origins:fox_ears",
+		"even_more_origins:frail",
+		"even_more_origins:nimble",
+		"even_more_origins:pounce",
+		"even_more_origins:small"
+	],
+	"icon":"minecraft:sweet_berries",
+	"order":5,
+	"impact":2
+}

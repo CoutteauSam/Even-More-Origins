@@ -1,0 +1,10 @@
+{
+	"powers":[
+		"even_more_origins:pack_animal",
+		"even_more_origins:strong_legs",
+		"even_more_origins:vegetarian"
+	],
+	"icon":"minecraft:carrot",
+	"order":5,
+	"impact":1
+}
