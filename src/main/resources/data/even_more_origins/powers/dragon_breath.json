@@ -12,6 +12,10 @@
 	},
 	"badges":[
 		{
+			"sprite":"origins:textures/gui/badge/active.png",
+			"text":"Active Ability"
+		},
+		{
 			"sprite":"minecraft:textures/item/axolotl_bucket.png",
 			"text":"Positive Effect"
 		}

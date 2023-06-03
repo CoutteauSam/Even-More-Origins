@@ -36,13 +36,7 @@
 	"cooldown":400,
 	"hud_render":{
 		"should_render":true
-	},
-	"badges":[
-		{
-			"sprite":"minecraft:textures/item/pufferfish_bucket.png",
-			"text":"Double-Edged Effect"
-		}
-	]
+	}
 }
 
 
