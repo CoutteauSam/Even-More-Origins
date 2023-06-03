@@ -1,3 +1,4 @@
 {
-	"type":"seleni:charged"
+	"type":"seleni:charged",
+	"hidden":true
 }
