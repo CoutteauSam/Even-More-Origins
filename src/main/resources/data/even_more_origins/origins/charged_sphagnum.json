@@ -1,4 +1,5 @@
 {
+	"unchoosable":true,
 	"powers":[
 		"even_more_origins:charged",
 		"even_more_origins:explode_charged",
@@ -7,7 +8,6 @@
 		"even_more_origins:sneaky",
 		"even_more_origins:weak_arms"
 	],
-	"unchoosable":true,
-	"order":5,
+	"icon":"minecraft:creeper_head",
 	"impact":3
 }

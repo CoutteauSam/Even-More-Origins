@@ -7,7 +7,6 @@
 		"even_more_origins:weak_arms"
 	],
 	"icon":"minecraft:gunpowder",
-	"order":5,
 	"impact":3,
 	"upgrades":[
 		{
