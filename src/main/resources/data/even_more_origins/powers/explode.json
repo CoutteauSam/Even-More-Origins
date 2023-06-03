@@ -37,10 +37,6 @@
 	},
 	"badges":[
 		{
-			"sprite":"origins:textures/gui/badge/active.png",
-			"text":"Active Ability"
-		},
-		{
 			"sprite":"minecraft:textures/item/pufferfish_bucket.png",
 			"text":"Double-Edged Effect"
 		}
