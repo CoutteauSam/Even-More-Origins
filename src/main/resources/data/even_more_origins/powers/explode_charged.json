@@ -33,7 +33,7 @@
 			}
 		]
 	},
-	"cooldown":100,
+	"cooldown":400,
 	"hud_render":{
 		"should_render":true
 	}
