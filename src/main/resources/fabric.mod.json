@@ -14,7 +14,7 @@
 	},
 	"icon":"assets/even_more_origins/icon.png",
 	"depends":{
-		"minecraft":"1.19.x",
+		"minecraft":">=1.19",
 		"fabric":"*",
 		"origins":"*",
 		"pehkui":"*",
