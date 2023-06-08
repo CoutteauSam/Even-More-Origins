@@ -1,4 +1,4 @@
-## Even More Origins
+# Even More Origins
 
 Even More Origins adds `5` new origins for the origins mod based on existing mobs.
 
