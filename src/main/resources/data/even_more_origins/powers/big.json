@@ -1,26 +1,45 @@
 {
 	"type":"origins:multiple",
-	"size":{
-		"type":"seleni:modify_size",
-		"scale_types":[
-			"seleni:modify_size"
-		],
-		"scale":1.6
-	},
-	"compensate":{
-		"type":"seleni:modify_size",
-		"scale_types":[
-			"pehkui:held_item"
-		],
-		"scale":0.625
-	},
-	"reset":{
-		"type":"seleni:modify_size",
-		"scale_types":[
-			"pehkui:falling",
-			"pehkui:flight"
-		],
-		"scale":1
+	"pehkui":{
+		"type":"origins:action_on_callback",
+		"entity_action_chosen":{
+			"type":"origins:and",
+			"actions":[
+				{
+					"type":"origins:execute_command",
+					"command":"scale set pehkui:height 1.6 @s"
+				},
+				{
+					"type":"origins:execute_command",
+					"command":"scale set pehkui:width 1.6 @s"
+				},
+				{
+					"type":"origins:execute_command",
+					"command":"scale set pehkui:held_item 0.625 @s"
+				}
+			]
+		},
+		"entity_action_respawned":{
+			"type":"origins:and",
+			"actions":[
+				{
+					"type":"origins:execute_command",
+					"command":"scale set pehkui:height 1.6 @s"
+				},
+				{
+					"type":"origins:execute_command",
+					"command":"scale set pehkui:width 1.6 @s"
+				},
+				{
+					"type":"origins:execute_command",
+					"command":"scale set pehkui:held_item 0.625 @s"
+				}
+			]
+		},
+		"entity_action_lost":{
+			"type":"origins:execute_command",
+			"command":"scale reset"
+		}
 	},
 	"badges":[
 		{
