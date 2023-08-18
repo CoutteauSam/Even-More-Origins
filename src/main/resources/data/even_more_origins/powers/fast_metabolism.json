@@ -7,7 +7,7 @@
 	"food":{
 		"type":"origins:exhaust",
 		"interval":20,
-		"exhaustion":0.4
+		"exhaustion":0.3
 	},
 	"badges":[
 		{
