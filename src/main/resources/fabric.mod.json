@@ -18,6 +18,6 @@
 		"fabric":"*",
 		"origins":"*",
 		"pehkui":"*",
-		"seleni":">=0.2.3"
+		"seleni":"*"
 	}
 }
