@@ -1,0 +1,12 @@
+{
+	"powers":[
+		"even-more-origins:dragon_breath",
+		"even-more-origins:dragon_crystal",
+		"even-more-origins:dragon_wings",
+		"even-more-origins:fast_metabolism",
+		"even-more-origins:magic_immunity",
+		"even-more-origins:no_regen"
+	],
+	"icon":"minecraft:dragon_egg",
+	"impact":3
+}

@@ -4,7 +4,7 @@
 		"type":"origins:action_over_time",
 		"entity_action":{
 			"type":"origins:execute_command",
-			"command":"function even_more_origins:small"
+			"command":"function even-more-origins:big"
 		},
 		"interval":20
 	},
@@ -13,13 +13,6 @@
 		"entity_action_lost":{
 			"type":"origins:execute_command",
 			"command":"scale reset"
-		}
-	},
-	"compensate":{
-		"type":"origins:modify_jump",
-		"modifier":{
-			"operation":"multiply_base",
-			"value":-0.1
 		}
 	},
 	"badges":[

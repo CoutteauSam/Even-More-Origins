@@ -1,0 +1,13 @@
+{
+	"unchoosable":true,
+	"powers":[
+		"even-more-origins:charged",
+		"even-more-origins:explode_charged",
+		"even-more-origins:green",
+		"even-more-origins:less_hunger",
+		"even-more-origins:sneaky",
+		"even-more-origins:weak_arms"
+	],
+	"icon":"minecraft:creeper_head",
+	"impact":3
+}

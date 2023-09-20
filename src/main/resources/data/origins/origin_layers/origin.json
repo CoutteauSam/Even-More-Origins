@@ -1,10 +1,10 @@
 {
 	"origins":[
-		"even_more_origins:charged_sphagnum",
-		"even_more_origins:equidae",
-		"even_more_origins:golmi",
-		"even_more_origins:sphagnum",
-		"even_more_origins:terram_draconis",
-		"even_more_origins:vulpes"
+		"even-more-origins:charged_sphagnum",
+		"even-more-origins:equidae",
+		"even-more-origins:golmi",
+		"even-more-origins:sphagnum",
+		"even-more-origins:terram_draconis",
+		"even-more-origins:vulpes"
 	]
 }

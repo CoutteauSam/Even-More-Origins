@@ -1,0 +1,17 @@
+{
+	"powers":[
+		"even-more-origins:explode",
+		"even-more-origins:green",
+		"even-more-origins:less_hunger",
+		"even-more-origins:sneaky",
+		"even-more-origins:weak_arms"
+	],
+	"icon":"minecraft:gunpowder",
+	"impact":3,
+	"upgrades":[
+		{
+			"condition":"even-more-origins:lightning",
+			"origin":"even-more-origins:charged_sphagnum"
+		}
+	]
+}

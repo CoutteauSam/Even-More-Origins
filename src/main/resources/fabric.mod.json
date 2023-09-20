@@ -1,6 +1,6 @@
 {
 	"schemaVersion":1,
-	"id":"even_more_origins",
+	"id":"even-more-origins",
 	"name":"Even More Origins",
 	"version":"${version}",
 	"description":"Adds even more origins for the origins mod.",
@@ -12,10 +12,9 @@
 		"homepage":"https://www.curseforge.com/minecraft/mc-mods/even-more-origins",
 		"issues":"https://github.com/CoutteauSam/Even-More-Origins/issues"
 	},
-	"icon":"assets/even_more_origins/icon.png",
+	"icon":"assets/even-more-origins/icon.png",
 	"depends":{
 		"minecraft":"*",
-		"fabric":"*",
 		"origins":"*",
 		"pehkui":"*",
 		"seleni":"*"
