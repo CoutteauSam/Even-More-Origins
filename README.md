@@ -11,7 +11,6 @@ Go to the [wiki](https://github.com/CoutteauSam/Even-More-Origins/wiki) to view 
 
 ***
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/fabric-api"><img src="https://i.imgur.com/HabVZJR.png" width="180" height="60"/></a> 
 <a href="https://www.curseforge.com/minecraft/mc-mods/origins"><img src="https://i.imgur.com/mOYS065.png" width="180" height="60"/></a> 
 <a href="https://www.curseforge.com/minecraft/mc-mods/pehkui"><img src="https://cdn.discordapp.com/attachments/747200097015562250/840039825678663741/pehkui_badge.png" width="180" height="60"/></a>
 <a href="https://www.curseforge.com/minecraft/mc-mods/seleni"><img src="https://raw.githubusercontent.com/CoutteauSam/Seleni/main/extra/seleni_badge.png" width="180" height="60"/></a>
